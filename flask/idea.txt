@@ -1,0 +1,33 @@
+Ahh, you mean **external tools only** 👍
+Here are the **main external tools** you’d plug into a LangGraph research agent, kept short and clear:
+
+### Web / Research tools
+
+* **Tavily** – best for AI-friendly web search
+* **SerpAPI** – Google-style search results
+* **Bing Search API** – solid general search
+
+### Academic / papers
+
+* **Semantic Scholar API** – research papers
+* **arXiv API** – preprints & CS research
+* **CrossRef API** – paper metadata + DOIs
+
+### Content fetching
+
+* **Web scraper / URL loader** – pull article text
+* **PDF parser** – extract text from papers
+
+### Knowledge tools
+
+* **Wikipedia API** – fast background info
+
+### Optional helpers
+
+* **Citation formatter** – APA / MLA output
+* **Fact-checking APIs** – verify claims
+
+**Most common combo:**
+👉 Tavily + arXiv + Semantic Scholar
+
+If you want, I can suggest **the best combo for your exact use case** (academic vs general research).
